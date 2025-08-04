@@ -1,0 +1,7 @@
+com\upwork\movercrm\config\SecurityConfig.class
+com\upwork\movercrm\security\JwtUtils.class
+com\upwork\movercrm\entity\User$Role.class
+com\upwork\movercrm\entity\User.class
+com\upwork\movercrm\security\JwtAuthenticationFilter.class
+com\upwork\movercrm\MoverCrmApplication.class
+com\upwork\movercrm\repository\UserRepository.class
