@@ -2,7 +2,7 @@
 
 A modern, full-stack application built with Next.js, TypeScript, Tailwind CSS, and Material-UI following best practices.
 
-## 🚀 Features
+##  Features
 
 - **Next.js 14** with App Router
 - **TypeScript** for type safety
@@ -14,13 +14,13 @@ A modern, full-stack application built with Next.js, TypeScript, Tailwind CSS, a
 - **Utility Functions** for common operations
 - **Best Practices** throughout the codebase
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (version 18 or higher)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
-## 🛠️ Installation
+##  Installation
 
 1. **Clone the repository** (if you haven't already):
    ```bash
@@ -44,7 +44,7 @@ Before you begin, ensure you have the following installed:
 
 4. **Open your browser** and navigate to [http://localhost:3000](http://localhost:3000)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -65,7 +65,7 @@ src/
     └── index.ts
 ```
 
-## 🎨 Styling
+##  Styling
 
 This project uses a combination of **Tailwind CSS** and **Material-UI**:
 
@@ -81,7 +81,7 @@ The Material-UI theme is configured in `src/components/theme-provider.tsx` with:
 - Component overrides
 - Responsive breakpoints
 
-## 🔧 Available Scripts
+##  Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
@@ -89,14 +89,14 @@ The Material-UI theme is configured in `src/components/theme-provider.tsx` with:
 - `npm run lint` - Run ESLint
 - `npm run type-check` - Run TypeScript type checking
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The application is built with a mobile-first approach using:
 - Material-UI's responsive breakpoints
 - Tailwind CSS responsive utilities
 - Custom media query hooks
 
-## 🎯 Best Practices
+##  Best Practices
 
 ### Code Organization
 - **Feature-based structure**: Components organized by feature
@@ -122,7 +122,7 @@ The application is built with a mobile-first approach using:
 - **Sitemap**: Automatic generation
 - **Robots.txt**: Search engine optimization
 
-## 🧪 Testing
+## Testing
 
 To add testing to your project:
 
@@ -142,54 +142,3 @@ To add testing to your project:
    }
    ```
 
-3. **Add test scripts** to `package.json`:
-   ```json
-   {
-     "scripts": {
-       "test": "jest",
-       "test:watch": "jest --watch"
-     }
-   }
-   ```
-
-## 🚀 Deployment
-
-### Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy automatically
-
-### Other Platforms
-- **Netlify**: Configure build settings
-- **AWS Amplify**: Connect repository
-- **Docker**: Use provided Dockerfile
-
-## 📚 Additional Resources
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Material-UI Documentation](https://mui.com/)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/your-repo/issues) page
-2. Create a new issue with detailed information
-3. Contact the maintainers
-
----
-
-**Happy coding! 🎉** 
